@@ -1,5 +1,5 @@
 # ES6 and Design Patterns
-
+## Creational Patterns
 ### Factory
 Practically any function that returns an object without `new` keyword is a factory. An example is a mail template builder for nodemailer.
 ```javascript
